@@ -1,2 +1,2 @@
 # PHPGurukul-Hospital-Management-System
-cve
+ Eleven security vulnerabilities were found in the audit of PHPGurukul Hospital Management System 
